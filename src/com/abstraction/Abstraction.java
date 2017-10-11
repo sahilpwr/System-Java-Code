@@ -3,6 +3,7 @@ package com.abstraction;
 public class Abstraction extends AbstractTest implements Interface,InterfaceInput
 {
 
+	
 	public static void main(String[] args)
 	{
      Abstraction abs=new Abstraction();
