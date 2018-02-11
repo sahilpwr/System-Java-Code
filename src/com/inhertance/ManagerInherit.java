@@ -13,4 +13,6 @@ public class ManagerInherit extends Employee
 	{
 		return compensation=salary+bonus;
 	}
+	public void print(String a)
+	{}
 }

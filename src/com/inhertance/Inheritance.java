@@ -10,6 +10,11 @@ public class Inheritance
 		System.out.println(soft.calculate());
 		ManagerInherit mang=new ManagerInherit(4000, "US");
 		System.out.println(mang.calculate());
+		
+		SoftwareInherit e=new SoftwareInherit("q",900);
+		Employee w=new ManagerInherit(90,"jk");
+		
+		
 	}
 
 }

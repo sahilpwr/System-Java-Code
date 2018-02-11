@@ -13,5 +13,6 @@ public class SoftwareInherit extends Employee
 	{
 		return compensation=salary+bonus;
 	}
-	
+	public void print(String a)
+	{}
 }
